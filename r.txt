@@ -26,31 +26,21 @@ a female mammal such as a cow * sheep * pig as opposed to a bull (okag)
 raay
 far * a long distance
 遙遠
-
-
-Hakowa ko nika raay?
-How far is it?
-有多遠呢?
-
-
-Hakowa ko nika raraay?
-How far apart are the two?
-兩者相隔 多遠？
-
-
-Maraay ko loma' ako.
-My home is a long distance away.
-我家 住很遠
-
-
-I raay a ma'araw ako cigra.
-I saw him a long distance away.
-我在很遠的地方看到他
-
-
-Mararaay ko loma' ita
-Our homes are far from each other.
-我 們家相隔的距離很遠
+    Hakowa ko nika raay?
+    How far is it?
+    有多遠呢?
+    Hakowa ko nika raraay?
+    How far apart are the two?
+    兩者相隔 多遠？
+    Maraay ko loma' ako.
+    My home is a long distance away.
+    我家住很遠
+    I raay a ma'araw ako cigra.
+    I saw him a long distance away.
+    我在很遠的地方看到他
+    Mararaay ko loma' ita
+    Our homes are far from each other.
+    我們家相隔的距離很遠
 
 
 radac
