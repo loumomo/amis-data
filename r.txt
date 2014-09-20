@@ -46,49 +46,38 @@ far * a long distance
 radac
 level surface
 外表平坦
-
-
-Paradacen ko lalan.
-Level the road.
-把路面整平
-
-
-Maradac ko lalan.
-The road is level.
-路面很平坦
-
+    Paradacen ko lalan.
+    Level the road.
+    把路面整平
+    Maradac ko lalan.
+    The road is level.
+    路面很平坦
 
 radiw
-=> ladiw
 song ＊ music
 唱歌，音樂
-
-
-O nika romadiw ita ko ga'ay.
-We should sing.
-我們最好來唱歌Kalaradiw koya tamdaw. - That person is very musical. 那個人很 會唱歌
-
+    O nika romadiw ita ko ga'ay.
+    We should sing.
+    我們最好來唱歌Kalaradiw koya tamdaw.
+    That person is very musical. 
+    那個人很 會唱歌
+=> ladiw
 
 radom
 to carry water from water source
 挑水
-
-
-Miradom ko 'Amis a ma'min itiyaho.
-All Amis used to carry water (from a well or spring) .
-阿美族過去都是挑水飲用
+    Miradom ko 'Amis a ma'min itiyaho.
+    All Amis used to carry water (from a well or spring) .
+    阿美族過去都是挑水飲用
 
 
 rafac
-=> lafac
 free to roam * referring to an animal loose
 自由自 在，自由徜徉，指放走回歸於自然
-
-
 Parafacen koya kolog ta ira a makilim nira ko kakaenen.
 Let the water buffalo roam so he can find food.
 把牛放掉好讓牛能 找到草吃
-
+=> lafac
 
 rafar
 to slash - burn fields as they were burned in old days when people moved from place to place to farm the land
